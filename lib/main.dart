@@ -203,18 +203,6 @@ class _HomePageState extends State<HomePage> {
                 ExpressionButton(context, '='),
               ],
             ),
-            const SizedBox(height: 20.8),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: const [
-                Text(
-                  "Created By Returaj",
-                  style: TextStyle(
-                    fontWeight: FontWeight.w900,
-                  ),
-                ),
-              ],
-            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
@@ -261,7 +249,19 @@ class _HomePageState extends State<HomePage> {
                     },
                     child: const Text("Show Posfix"))
               ],
-            )
+            ),
+            const SizedBox(height: 20.8),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: const [
+                Text(
+                  "Created By Returaj",
+                  style: TextStyle(
+                    fontWeight: FontWeight.w900,
+                  ),
+                ),
+              ],
+            ),
           ],
         ),
       ),
