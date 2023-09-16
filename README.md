@@ -1,8 +1,9 @@
 # calculator
 
-A new Flutter project.
+##This Project is made using infix to postfix algorithm
+![3](https://github.com/ReturajProshad/My_first_flutter_project--calculator-/assets/130851471/7cba8240-2f83-49ff-adb7-f79404db71dd)
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
